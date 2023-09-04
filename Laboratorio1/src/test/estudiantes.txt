@@ -1,0 +1,2 @@
+Nombres; Apellidos;Rut;Genero;fechaNacimiento; region
+Pepito; perez; 121212-1;M; 12/02/2002; Valparaíso
